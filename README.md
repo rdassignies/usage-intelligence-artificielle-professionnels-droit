@@ -1,7 +1,4 @@
-# usage-intelligence-artificielle-professionnels-droit
-Cours B3 HEAD - Usage de l'intelligence artificielle pour les professionnels du droit
-
-# Intelligence artificielle et outils informatiques - M1 HEAD
+# Usage de l'intelligence artificielle pour les professionnels du droit - B3 _HEAD
 
 contact : rdassignies [at] protonmail.ch
 
@@ -20,9 +17,7 @@ Tout d’abord, il vise à donner aux futurs juristes une culture d’interface,
 
 Ensuite, il a pour ambition de fournir aux étudiants des bases techniques pour comprendre et implémenter les outils informatiques qu’ils utiliseront dans leur quotidien au sein de leur pratique professionnelle. 
 
-
 # Modalité d'examen : A déterminer 
-
 
 ***********
 ## Les fiches de cours 
