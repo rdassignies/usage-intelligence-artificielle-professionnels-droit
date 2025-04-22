@@ -5,10 +5,10 @@ contact : rdassignies [at] protonmail.ch
 ## Informations utiles
 Sur cette page, vous trouverez toutes les informations utiles pour le cours :
 
-- [le syllabus-](https://docs.google.com/document/d/1tMo-4-vbf_abE_ZPOGAkT80tw-468RPH_prowdSG2k4/edit?usp=sharing),
+- [le syllabus](https://docs.google.com/document/d/1tMo-4-vbf_abE_ZPOGAkT80tw-468RPH_prowdSG2k4/edit?usp=sharing),
 - les documents associés aux cours,
 - les exercices pratiques.
-- [my.beekast.com](
+- [my.beekast.com](https://my.beekast.com/kast/6806760bd6878e4e24d88fd4/presentation)
 
 ## Objectifs du cours 
 Ce cours a un double objectif. 
