@@ -71,7 +71,8 @@ https://lab.dassignies.law/pedagogie/regression_lineaire_automatique/
 ## Exemples
 
 ### Exemples de jeu de données 
-https://huggingface.co/datasets/tblard/allocine 
+
+[https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 
 ## Exercices de prompting
 
