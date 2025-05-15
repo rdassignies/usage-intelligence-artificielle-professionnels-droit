@@ -19,6 +19,11 @@ Ensuite, il a pour ambition de fournir aux étudiants des bases techniques pour 
 
 # Modalité d'examen : A déterminer 
 
+# Devoir à la maison pour le 16 mai 2025
+
+## Résumé du cours sur les notions essentielles 
+## Rédiger un prompt system à partir du style d'un auteur 
+
 ***********
 ## Les fiches de cours 
 ### Les modèles de langage
@@ -38,6 +43,9 @@ https://drive.google.com/file/d/1MGYT3YKJJ0tqsgGo7u4-IPofz2O2MyT4/view?usp=shari
 Pour aller plus loin: 
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/abs/2312.16171&ved=2ahUKEwihpsrujc-IAxW8RaQEHTEqJSkQFnoECBQQAQ&usg=AOvVaw2VTnQcdmbA2EKCJoFFvWyw
 
+**Claude prompt leak**
+
+https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt 
 **jailbreak**
 
 https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts
