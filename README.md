@@ -17,7 +17,9 @@ Tout d’abord, il vise à donner aux futurs juristes une culture d’interface,
 
 Ensuite, il a pour ambition de fournir aux étudiants des bases techniques pour comprendre et implémenter les outils informatiques qu’ils utiliseront dans leur quotidien au sein de leur pratique professionnelle. 
 
-# Modalité d'examen : A déterminer 
+# Modalité d'examen : 
+- Contrôle continue (40% de la note)
+- Devoir à la maison (60% de la note)
 
 # Devoir à la maison pour le 16 mai 2025
 
