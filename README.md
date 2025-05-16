@@ -93,9 +93,24 @@ https://gandalf.lakera.ai/intro?_gl=1*1cglg05*_gcl_au*MjI2NDkwMzYwLjE3MzEzNTk5Mj
 
 ## Exercices de prompting
 
-#### 
+### Explorer un sujet : la reconnaissance faciale 
+
+#### Elaborer sa base documentaire 
 
 [Proposition de loi (n°1317 - 17ème législature)](https://www.assemblee-nationale.fr/dyn/17/textes/l17b1317_proposition-loi.pdf)
+[Reconnaissance faciale - document CNIL 2019](https://www.cnil.fr/sites/cnil/files/atoms/files/reconnaissance_faciale.pdf)
+[Réglement européen sur l'intelligence artificielle](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=OJ:L_202401689)
+
+Elargir les recherches et trouver des documents pertinents. Quelles stratégies ? 
+
+#### Explorer les documents 
+
+Exploration des documents à l'aide de notebookLM
+
+#### Générer des contenus 
+
+Comment générer des fiches de cours, des tableaux de synthèse ... ? 
+
 
 #### Rédiger un prompt qui illustre la notion de few-shot learning
 
