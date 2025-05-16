@@ -93,9 +93,9 @@ https://gandalf.lakera.ai/intro?_gl=1*1cglg05*_gcl_au*MjI2NDkwMzYwLjE3MzEzNTk5Mj
 
 ## Exercices de prompting
 
-### Explorer un sujet : la reconnaissance faciale 
+## Explorer un sujet : la reconnaissance faciale 
 
-#### Elaborer sa base documentaire 
+### Elaborer sa base documentaire 
 
 [Proposition de loi (n°1317 - 17ème législature)](https://www.assemblee-nationale.fr/dyn/17/textes/l17b1317_proposition-loi.pdf)
 
@@ -105,7 +105,7 @@ https://gandalf.lakera.ai/intro?_gl=1*1cglg05*_gcl_au*MjI2NDkwMzYwLjE3MzEzNTk5Mj
 
 Elargir les recherches et trouver des documents pertinents. Quelles stratégies ? 
 
-#### Explorer les documents 
+### Explorer les documents 
 
 Exploration des documents à l'aide de notebookLM
 
