@@ -1,4 +1,4 @@
-# Usage de l'intelligence artificielle pour les professionnels du droit - B3 _HEAD
+# Usage de l'intelligence artificielle pour les professionnels du droit - B3 (HEAD)
 
 contact : rdassignies [at] protonmail.ch
 
@@ -23,8 +23,8 @@ Ensuite, il a pour ambition de fournir aux étudiants des bases techniques pour 
 
 # Devoir à la maison pour le 16 mai 2025
 
-## Résumé du cours sur les notions essentielles 
-## Rédiger un prompt system à partir du style d'un auteur 
+- Résumé du cours sur les notions essentielles vues en cours le 15 mai 2025 
+- Rédiger un prompt system à partir du style d'un auteur 
 
 ***********
 ## Les fiches de cours 
@@ -36,29 +36,13 @@ https://drive.google.com/file/d/13UQluiO1kiZx5gOeRiTP-zVqUvL8SIiV/view?usp=shari
 
 https://drive.google.com/file/d/1dsUim_xLJlEjH44FmxNHCwYOVRnVspfb/view?usp=sharing
 
-### Le prompting
 
-https://github.com/rdassignies/prompting (exemples)
-
-https://drive.google.com/file/d/1MGYT3YKJJ0tqsgGo7u4-IPofz2O2MyT4/view?usp=sharing (resumé ) 
-
-Pour aller plus loin: 
-https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/abs/2312.16171&ved=2ahUKEwihpsrujc-IAxW8RaQEHTEqJSkQFnoECBQQAQ&usg=AOvVaw2VTnQcdmbA2EKCJoFFvWyw
-
-**Claude prompt leak**
-
-https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt 
-**jailbreak**
-
-https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts
-
-https://learnprompting.org/docs/prompt_hacking/jailbreaking
-
-https://gandalf.lakera.ai/intro?_gl=1*1cglg05*_gcl_au*MjI2NDkwMzYwLjE3MzEzNTk5MjU.
 
 ## Les modèles en complément de ChatGPT : 
 
-**Outil notebookLM** : https://notebooklm.google.com/ 
+**Outil notebookLM** :
+
+https://notebooklm.google.com/ 
 
 https://mistral.ai/fr/
 
@@ -84,13 +68,34 @@ https://lab.dassignies.law/pedagogie/regression_lineaire_automatique/
 
 [https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 
+## Le prompting
+
+## Définition et bonnes pratiques
+
+https://github.com/rdassignies/prompting (exemples)
+
+https://drive.google.com/file/d/1MGYT3YKJJ0tqsgGo7u4-IPofz2O2MyT4/view?usp=sharing (resumé ) 
+
+Pour aller plus loin: 
+https://learnprompting.org/docs/introduction
+
+**Claude prompt leak**
+
+https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt 
+
+**jailbreak**
+
+https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts
+
+https://learnprompting.org/docs/prompt_hacking/jailbreaking
+
+https://gandalf.lakera.ai/intro?_gl=1*1cglg05*_gcl_au*MjI2NDkwMzYwLjE3MzEzNTk5MjU.
+
 ## Exercices de prompting
 
-#### Les bonnes pratiques en matière de prompting
+#### 
 
-Rédiger une fiche de bonnes pratiques en matière de prompting.
-
-Cette fiche doit pouvoir être enregistrée au format PDF pour être réutilisée par la suite.
+[Proposition de loi (n°1317 - 17ème législature)](https://www.assemblee-nationale.fr/dyn/17/textes/l17b1317_proposition-loi.pdf)
 
 #### Rédiger un prompt qui illustre la notion de few-shot learning
 
