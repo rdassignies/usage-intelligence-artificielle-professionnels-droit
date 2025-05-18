@@ -77,8 +77,9 @@ https://github.com/rdassignies/prompting (exemples)
 https://drive.google.com/file/d/1MGYT3YKJJ0tqsgGo7u4-IPofz2O2MyT4/view?usp=sharing (resumé ) 
 
 Pour aller plus loin: 
-https://learnprompting.org/docs/introduction
-!! [Guide d'Oxford concernant l'utilisation de la GenAI pour les étudiants](https://www.ox.ac.uk/students/academic/guidance/skills/ai-study)
+- https://learnprompting.org/docs/introduction
+- !! [Guide d'Oxford concernant l'utilisation de la GenAI pour les étudiants](https://www.ox.ac.uk/students/academic/guidance/skills/ai-study)
+
 
 **Claude prompt system leak**
 
