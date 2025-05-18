@@ -78,8 +78,9 @@ https://drive.google.com/file/d/1MGYT3YKJJ0tqsgGo7u4-IPofz2O2MyT4/view?usp=shari
 
 Pour aller plus loin: 
 https://learnprompting.org/docs/introduction
+!! [Guide d'Oxford concernant l'utilisation de la GenAI pour les étudiants](https://www.ox.ac.uk/students/academic/guidance/skills/ai-study)
 
-**Claude prompt leak**
+**Claude prompt system leak**
 
 https://raw.githubusercontent.com/asgeirtj/system_prompts_leaks/refs/heads/main/claude.txt 
 
