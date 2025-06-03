@@ -25,8 +25,7 @@ Ensuite, il a pour ambition de fournir aux étudiants des bases techniques pour 
 
 Vous avez le choix entre deux sujets : 
 
-## Sujet 1 : La traçabilité et le statut juridique des crypto-actifs
-dans les enquêtes pénales
+## Sujet 1 : La traçabilité et le statut juridique des crypto-actifs dans les enquêtes pénales
 
 Dans un document de **5 pages maximum**, vous expliquerez les défis
 juridiques, les enjeux pratiques et théoriques soulevés par
@@ -51,7 +50,7 @@ accessible et didactique
 * **De la maîtrise de la langue** (fluidité syntaxique et absence de
 fautes d'orthographe)
 * **De la rigueur juridique** et de la précision technique des développements
-* **De l'originalité** de l'angle d'analyse choisi
+* **De l'originalité** des angles d'analyse choisis
 * **De la pertinence** des sources mobilisées et de leur diversité
 * **De la cohérence** de l'argumentation et de la structuration du propos
 
@@ -59,17 +58,16 @@ fautes d'orthographe)
 
 ## Modalités pratiques
 
-- **Date de remise :** [À compléter]
-- **Format :** Document numérique (PDF recommandé)
+- **Date de remise :** [À compléter par le service scolarité]
+- **Format :** Document PDF
 - **Longueur :** 5 pages maximum par sujet
-- **Structure :** Libre mais rigoureuse
+- **Structure :** Libre 
 
 ## Instructions
 
-À vous de définir votre problématique et de construire votre
-raisonnement ! Mobilisez tous les outils de recherche à votre
-disposition et faites preuve de créativité dans votre approche.
+À vous de définir votre problématique et de construire votre raisonnement ! Mobilisez tous les outils de recherche à votre disposition et faites preuve de créativité dans votre approche.
 
+----
 
 # Devoir à la maison pour le 16 mai 2025
 
