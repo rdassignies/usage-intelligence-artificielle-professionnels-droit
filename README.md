@@ -21,10 +21,62 @@ Ensuite, il a pour ambition de fournir aux étudiants des bases techniques pour 
 - Contrôle continue (40% de la note)
 - Devoir à la maison (60% de la note)
 
+# Devoir à la maison pour la note finale
+
+Vous avez le choix entre deux sujets : 
+
+## Sujet 1 : La traçabilité et le statut juridique des crypto-actifs
+dans les enquêtes pénales
+
+Dans un document de **5 pages maximum**, vous expliquerez les défis
+juridiques, les enjeux pratiques et théoriques soulevés par
+l'utilisation des crypto-actifs dans le cadre des enquêtes pénales.
+
+## Sujet 2 : Le régime juridique de l'OSINT (renseignement en source ouverte)
+
+Dans un document de **5 pages maximum**, vous expliquerez le concept
+d'OSINT et analyserez les problématiques juridiques et techniques
+soulevées par cette pratique.
+
+---
+
+## Critères d'évaluation pour les deux sujets
+
+La note tiendra compte :
+
+* **De la qualité de la présentation** (mise en page, graphiques,
+schémas explicatifs)
+* **De l'approche pédagogique** adoptée pour rendre le document
+accessible et didactique
+* **De la maîtrise de la langue** (fluidité syntaxique et absence de
+fautes d'orthographe)
+* **De la rigueur juridique** et de la précision technique des développements
+* **De l'originalité** de l'angle d'analyse choisi
+* **De la pertinence** des sources mobilisées et de leur diversité
+* **De la cohérence** de l'argumentation et de la structuration du propos
+
+---
+
+## Modalités pratiques
+
+- **Date de remise :** [À compléter]
+- **Format :** Document numérique (PDF recommandé)
+- **Longueur :** 5 pages maximum par sujet
+- **Structure :** Libre mais rigoureuse
+
+## Instructions
+
+À vous de définir votre problématique et de construire votre
+raisonnement ! Mobilisez tous les outils de recherche à votre
+disposition et faites preuve de créativité dans votre approche.
+
+
 # Devoir à la maison pour le 16 mai 2025
 
 - Résumé du cours sur les notions essentielles vues en cours le 15 mai 2025 
-- Rédiger un prompt system à partir du style d'un auteur 
+- Rédiger un prompt system à partir du style d'un auteur
+
+
 
 ***********
 ## Les fiches de cours 
